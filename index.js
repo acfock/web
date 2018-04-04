@@ -1,1 +1,2 @@
-alert('hello world!')
+alert('hello world~~~')
+conlose.log("ffff")
